@@ -1,0 +1,8 @@
+* text=auto
+* eol=lf
+
+/.gitignore export-ignore
+/README.md export-ignore
+/DEVELOPMENT.md export-ignore
+
+backend/data/* -merge
